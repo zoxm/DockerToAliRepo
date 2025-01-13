@@ -29,9 +29,9 @@ nginx:1.19.0-alpine
 prom/prometheus:v2.25.0
 grafana/grafana:7.3.7
 
-#blackarch
-#archlinux
-#kali
+blackarch
+archlinux
+kali
 
 
 
