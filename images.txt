@@ -1,4 +1,4 @@
-blackarch
+bitnami/etcd:3.5.7
 
 
 
