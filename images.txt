@@ -21,7 +21,7 @@ rabbitmq
 
 # APISIX
 apache/apisix-dashboard:3.0.1-alpine
-apisix
+apache/apisix:latest
 # apache/apisix:3.11.0-debian
 #ywengineer/apisix-with-tengine:centos-1.4
 bitnami/etcd:3.5.11
@@ -29,9 +29,9 @@ nginx:1.19.0-alpine
 prom/prometheus:v2.25.0
 grafana/grafana:7.3.7
 
-blackarch
-archlinux
-kali
+#blackarch
+#archlinux
+#kali
 
 
 
