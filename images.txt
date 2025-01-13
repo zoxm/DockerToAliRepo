@@ -20,7 +20,7 @@ nacos/nacos-server:v2.1.0
 
 # APISIX
 apache/apisix-dashboard:3.0.1-alpine
-apache/apisix
+apache/apisix:3.8.0-debian
 bitnami/etcd:3.5.11
 nginx:1.19.0-alpine
 prom/prometheus:v2.25.0
