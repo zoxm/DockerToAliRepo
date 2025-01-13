@@ -14,7 +14,8 @@ nacos/nacos-server:v2.4.3
 nacos/nacos-server:v2.1.0
 
 
-
+elasticsearch
+rabbitmq
 
 
 
@@ -27,6 +28,11 @@ bitnami/etcd:3.5.11
 nginx:1.19.0-alpine
 prom/prometheus:v2.25.0
 grafana/grafana:7.3.7
+
+blackarch
+archlinux
+kali
+
 
 
 
