@@ -1,4 +1,4 @@
-apache/apisix:3.11.0-debian
+mariadb
 
 
 
