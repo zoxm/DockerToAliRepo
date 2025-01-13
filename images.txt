@@ -1,5 +1,4 @@
-oracle
-
+etcd:3.4.18
 
 
 
