@@ -21,7 +21,7 @@ rabbitmq
 
 # APISIX
 apache/apisix-dashboard:3.0.1-alpine
-# apache/apisix
+apisix
 # apache/apisix:3.11.0-debian
 #ywengineer/apisix-with-tengine:centos-1.4
 bitnami/etcd:3.5.11
