@@ -1,4 +1,4 @@
-etcd:3.4.18
+registry:2
 
 
 
