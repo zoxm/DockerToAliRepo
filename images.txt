@@ -1,4 +1,4 @@
-prom/prometheus:v2.25.0
+grafana/grafana:7.3.7
 
 
 
