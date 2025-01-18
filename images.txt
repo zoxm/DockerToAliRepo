@@ -1,4 +1,4 @@
-emqx/emqx:5.8.4
+apache/apisix:3.5.0-debian
 
 
 
