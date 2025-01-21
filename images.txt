@@ -1,7 +1,1 @@
-grafana/grafana:7.3.7
-
-
-
-
-
-
+apisix/apisix:3.8.0-debian
