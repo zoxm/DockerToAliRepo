@@ -1,1 +1,1 @@
-apisix/apisix:3.8.0-debian
+bitnami/etcd:3.5.17
