@@ -1,1 +1,1 @@
-hslr/sun-panel:latest
+halo/halo:2.20
