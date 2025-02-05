@@ -1,1 +1,1 @@
-memos:0.23.1
+qbittorrent:5.0.3
