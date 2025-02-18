@@ -1,1 +1,1 @@
-deepseek-r1:7b
+deepseek-r1:latest
