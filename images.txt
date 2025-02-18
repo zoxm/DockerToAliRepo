@@ -1,1 +1,1 @@
-lskypro:latest
+deepseek-r1:7b
