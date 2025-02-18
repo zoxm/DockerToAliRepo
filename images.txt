@@ -1,1 +1,1 @@
-deepseek-r1:latest
+ghcr.io/open-webui/open-webui:ollama
