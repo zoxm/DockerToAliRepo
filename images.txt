@@ -1,2 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/playedu/light:1.8
-registry.cn-hangzhou.aliyuncs.com/hzbs/bitnami-minio:2024.6.6
+redis:7.0.12
