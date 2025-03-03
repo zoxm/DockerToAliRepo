@@ -1,2 +1,2 @@
-redis:7.0.12
+eclipse-temurin:17
 
