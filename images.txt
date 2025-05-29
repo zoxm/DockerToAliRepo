@@ -1,2 +1,2 @@
-eclipse-temurin:17
+jitsi/web
 
