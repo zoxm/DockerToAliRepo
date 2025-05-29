@@ -1,2 +1,1 @@
-jitsi/web
-
+jitsi/prosody
