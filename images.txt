@@ -1,1 +1,1 @@
-jitsi/prosody
+jitsi/jicofo
