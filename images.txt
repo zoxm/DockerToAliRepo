@@ -1,1 +1,1 @@
-jitsi/jvb
+jitsi/web:latest
