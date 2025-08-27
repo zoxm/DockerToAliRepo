@@ -1,2 +1,2 @@
-jongbaker/nacos-postgresql:2.3.2
+roneywei/nacos:v2.4.3.4
 
