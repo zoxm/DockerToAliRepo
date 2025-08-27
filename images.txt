@@ -1,2 +1,2 @@
-jitsi/jvb:latest
+nacos:2.3.2
 
