@@ -1,1 +1,1 @@
-docker.io/library/python:3.11-slim
+docker.io/apache/apisix:3.16-ubuntu
