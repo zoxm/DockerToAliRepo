@@ -1,1 +1,1 @@
-docker.io/apache/apisix:3.16-ubuntu
+apache/apisix:3.13.0
